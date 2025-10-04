@@ -1,3 +1,4 @@
+![Static Badge](https://img.shields.io/badge/Made_with-Python-blue?style=flat&link=https%3A%2F%2Fwww.python.org%2F)
 # Audio Distortion Report
 A Python script for Multi-channel, multithreaded distortion report between a reference ("before") and a processed ("after") audio file.
 
